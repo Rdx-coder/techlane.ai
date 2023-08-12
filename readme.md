@@ -13,7 +13,7 @@ This project serves as the backend for an AI product's dashboard. The frontend p
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/ai-product-dashboard-backend.git
+git clone https://github.com/Rdx-coder/techlane.ai.git
 
 Install the Node.js dependencies.
 npm install
